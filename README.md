@@ -1,1 +1,1 @@
-# lab_java
+This repositry contrains program releted to java program
