@@ -1,12 +1,16 @@
 //java program to demonstrate the example of for loop
 //which prints table of 1
-public class ForExample
+class PyramidExample
 {
 	public static void main(String args[])
 	{
-		for (int i=1;i<=10;i++)
+		for(int i = 1; i <=5; i++)
 		{
-			System .out.println(i);
+			for(int j = 1; j <=i; j++)
+			{
+				System.out.print("* ");
+			}
+			System.out.println();
 		}
 	}
-}
+}		
