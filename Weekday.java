@@ -2,7 +2,8 @@
 
 
 import java.util.Scanner;
-public class Weekday {
+public class Weekday
+ {
 
     
   public static void main(String[] args)
